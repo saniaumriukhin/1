@@ -1,0 +1,23 @@
+.carousel-card{
+    width: 80%;
+    margin: 50px auto;
+}
+.card img{
+    width: 60%;
+    height: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.carousel-control-prev-icon{
+    background-image: url("left-arrow.svg");
+}
+.carousel-control-next-icon{
+    background-image: url("right.svg");
+}
+.carousel-control-prev{
+    left: -250px;
+    }
+    .carousel-control-next{
+        right:-60px;
+        }
+    
